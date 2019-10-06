@@ -1,1 +1,1 @@
-# Trivia-Q-bot
+# TIME-TRIVIA-BETTER-THAN-COALESEC
